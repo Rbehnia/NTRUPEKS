@@ -1,1 +1,1 @@
-# NTRUPEKS
+This project is a transformation of an IBE to PEKS scheme. The files are taken from Thomas Prest's project https://github.com/tprest/Lattice-IBE and some of them are edited for this  transformation. Therefore, please respect its license and requirements. 
